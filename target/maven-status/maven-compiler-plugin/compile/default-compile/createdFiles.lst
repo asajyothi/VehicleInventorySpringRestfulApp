@@ -1,0 +1,17 @@
+com\vechicle\inventory\model\Vehicle.class
+com\vechicle\inventory\model\Truck.class
+com\vechicle\inventory\model\VehicleType.class
+com\vechicle\inventory\model\VehicleFactory.class
+com\vechicle\inventory\service\VehicleSerivceImpl.class
+com\vechicle\inventory\constants\InventoryLookupValues.class
+com\vechicle\inventory\config\SpringWebAppInitializer.class
+com\vechicle\inventory\model\Car.class
+com\vechicle\inventory\service\VehicleSerivce.class
+com\vechicle\inventory\response\ResponseInfo.class
+com\vechicle\inventory\DAO\VehicleDAO.class
+com\vechicle\inventory\model\VehicleDTO.class
+com\vechicle\inventory\service\VehicleFactoryImpl.class
+com\vechicle\inventory\DAO\VehicleRowMapper.class
+com\vechicle\inventory\controller\VehicleInventoryController.class
+com\vechicle\inventory\DAO\VehicleDAOImpl.class
+com\vechicle\inventory\config\ApplicationContextConfig.class

@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:03:20 -0500] "GET /VechicleInventory/allVehicleDetails HTTP/1.1" 200 292 http-bio-8080-exec-1 237
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:03:26 -0500] "POST /VechicleInventory/addVehicle?vehicletype=TRUCK&model=BIGTRUCK&milege=14&makeYear=2017&loadCapacity=1200 HTTP/1.1" 200 93 http-bio-8080-exec-2 59
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:03:30 -0500] "GET /VechicleInventory/allVehicleDetails HTTP/1.1" 200 411 http-bio-8080-exec-3 11
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:03:53 -0500] "PUT /VechicleInventory/updateVehicle?milege=12&vin=33 HTTP/1.1" 200 91 http-bio-8080-exec-4 16
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:03:56 -0500] "GET /VechicleInventory/allVehicleDetails HTTP/1.1" 200 411 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:04:01 -0500] "DELETE /VechicleInventory/deleteVehicle HTTP/1.1" 200 91 http-bio-8080-exec-6 7
+0:0:0:0:0:0:0:1 - - [21/Jul/2018:16:04:03 -0500] "GET /VechicleInventory/allVehicleDetails HTTP/1.1" 200 292 http-bio-8080-exec-7 4
